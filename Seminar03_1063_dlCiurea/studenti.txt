@@ -1,0 +1,4 @@
+3
+24 Andrei 9.5
+22 Dorel 8.9
+27 Georgiana 9.8
