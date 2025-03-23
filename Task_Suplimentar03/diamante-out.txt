@@ -1,0 +1,10 @@
+201 2001 Celestial Flame Rosu 12.34 4500000.00
+202 1995 Ocean Whisper Albastru 88.88 23000000.00
+203 2010 Sunbeam Galben 15.75 1500000.00
+204 1985 Frozen Tear Transparent 67.45 8000000.00
+205 1978 Nightfall Negru 25.60 1200000.00
+206 2005 Aurora's Heart Roz 38.20 9900000.00
+207 1990 Emerald Sky Verde 45.00 6700000.00
+208 1988 Luna Nova Alb 33.33 4400000.00
+209 2020 Desert Mirage Portocaliu 20.50 2500000.00
+210 2015 Mystic Shadow Violet 19.99 3700000.00
