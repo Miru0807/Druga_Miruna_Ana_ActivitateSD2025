@@ -1,0 +1,5 @@
+10,2,Medrol,Metaxin,3,2,10,34,50,70,Marinescu
+20,2,Medrol,Paracetamol,1,1,11,11,40,50,Ionescu
+30,2,Medrol,Metaxin,2,2,10,34,20,30,Ionescu
+40,2,Medrol,Metaxin,5,5,34,11,25,25,Pavel
+50,3,Medrol,Metaxin,Paracetamol,3,2,5,10,34,6,10,20,30,Teodor
