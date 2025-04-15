@@ -1,0 +1,10 @@
+1 1977 Str. Unirii 10
+2 1990 Str. Aviatorilor 6
+3 1977 Str. Victoriei 8
+4 2005 Str. Rahova 4
+5 1990 Str. Dorobanti 5
+6 1985 Str. Pantelimon 7
+7 2000 Str. Traian 3
+8 1977 Str. Independentei 6
+9 1995 Str. Muncii 5
+10 2010 Str. Iancului 9
