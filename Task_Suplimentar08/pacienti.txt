@@ -1,0 +1,10 @@
+1,5,Ion Popescu,Durere abdominala
+2,8,Maria Ionescu,Stop cardiac
+3,4,Alex Andrei,Entorsa glezna
+4,10,George Stan,Traumatism cranian
+5,7,Elena Vasilescu,Accident rutier
+6,3,Cosmin Radu,Tuse severa
+7,9,Silvia Dima,Hemoragie interna
+8,2,Dan Petrescu,Raceala usoara
+9,6,Laura Marin,Apendicita
+10,1,Victor Pavel,Febra
