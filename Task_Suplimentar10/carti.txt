@@ -1,0 +1,10 @@
+Cartea 1,Autorul 1,978-3-16-148410-0,2010
+Cartea 2,Autorul 2,978-3-16-148411-7,2011
+Cartea 3,Autorul 3,978-3-16-148412-4,2012
+Cartea 4,Autorul 4,978-3-16-148413-1,2013
+Cartea 5,Autorul 5,978-3-16-148414-8,2014
+Cartea 6,Autorul 6,978-3-16-148415-5,2015
+Cartea 7,Autorul 7,978-3-16-148416-2,2016
+Cartea 8,Autorul 8,978-3-16-148417-9,2017
+Cartea 9,Autorul 9,978-3-16-148418-6,2018
+Cartea 10,Autorul 10,978-3-16-148419-3,2019
