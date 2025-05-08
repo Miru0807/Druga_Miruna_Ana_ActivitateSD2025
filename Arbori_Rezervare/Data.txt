@@ -1,0 +1,7 @@
+1,Hotel SafePass,3,Cristina Marin,456
+23,Hotel Belvedere,3,Popescu Matei,300
+10,Hotel Vis,2,Popescu Matei,200
+30,Hotel Belvedere,5,Fratea Ion,300
+44,Hotel Plus,2,Popescu Matei,300
+33,Hotel Plus,1,Anton Emanuel,150
+2,Hotel Marina,3,Maria Elena,768
